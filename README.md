@@ -2,7 +2,7 @@
 
 ### I used these technologies while doing this project
 
-* JavaScript
+* TypeScript
 * Express JS
 * cors
 * bcrypt
